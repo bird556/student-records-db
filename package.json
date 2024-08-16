@@ -1,0 +1,24 @@
+{
+  "name": "student_records_database_sample",
+  "version": "1.0.0",
+  "description": "This repository contains a sample MongoDB database with 100 student records, which can be used for educational purposes, such as assignments and projects related to MongoDB. The data is stored in a JSON file named student_records.json.",
+  "main": "import_student_records.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouraleonardo/Student_Records_Database_Sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouraleonardo/Student_Records_Database_Sample/issues"
+  },
+  "homepage": "https://github.com/mouraleonardo/Student_Records_Database_Sample#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0"
+  }
+}
